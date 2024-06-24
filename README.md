@@ -19,7 +19,7 @@ developer: https://t.me/pysmart
 - password bruteforce
 - OTP bypass
 
-# WEBSITE ATTACKS
+# WEBSITE ATTACK
 - DDOS attack
 - SQLi
 - payloads
