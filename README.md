@@ -22,7 +22,7 @@ developer: https://t.me/pysmart
 # WEBSITE ATTACK
 - DDOS attack
 - SQLi
-- payloads
+- payload(s)
 
 
 developer: https://t.me/pysmart
