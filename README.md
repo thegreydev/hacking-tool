@@ -1,5 +1,5 @@
 # hacking-tool
-a python program that crack social media accounts, password hacks, OTP bypass, bruteforce attack
+a python program that cracks social media accounts, password hacks, OTP bypass, bruteforce attack
 
 developer: https://t.me/pysmart
 
