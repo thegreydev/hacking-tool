@@ -24,6 +24,11 @@ developer: https://t.me/pysmart
 - SQLi
 - payload(s)
 
+# CRYPTO HACKS
+- ERC20 sweeper
+- solana sweeper
+- ton sweeper
+
 
 developer: https://t.me/pysmart
 
